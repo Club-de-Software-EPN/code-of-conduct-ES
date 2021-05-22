@@ -52,16 +52,17 @@ Los reportes se pueden realizar de forma anónima o personalmente.
 
 ### Reportar de forma anónima
 
-Se puede realizar un reporte anónimo llenando el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSc9h39BmOIUzGfEQVpVubek_4vpsbS2Xb7OuYFr6bhvDXsIFA/viewform?usp=sf_link)
+Se puede realizar un reporte anónimo llenando el siguiente
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSc9h39BmOIUzGfEQVpVubek_4vpsbS2Xb7OuYFr6bhvDXsIFA/viewform?usp=sf_link" target="_blank">formulario</a>
 
 ### Reporte personal
 
 Se puede realizar un reporte directamente con algún orgnizador del club:
 - Juanjo Jaramillo
-    - Mensaje directo: [twitter](https://twitter.com/juanjodev02)
+    - Mensaje directo: <a href="https://twitter.com/juanjodev02" target="_blank">twitter</a>
     - Correo: juan.jaramillo02@epn.edu.ec
 - Alejandro Llanganate:
-  - Mensaje directo: [twitter](https://twitter.com/_llanganate)
+  - Mensaje directo: <a href="https://twitter.com/_llanganate" target="_blank">twitter</a>
   - Correo: alejandro.llanganate@epn.edu.ec
 
 Si recibimos el reporte en persona, nuestro personal se asegurará de que sea en un lugar seguro y nadie más pueda escucharlo. Pueden involucrar a otro organizador de la conferencia para garantizar que el reporte se gestione correctamente. Una vez que garantizamos la seguridad del reportante, le pediremos que nos cuente sobre lo que ha sucedido, esto puede ser molesto, pero lo manejaremos con el mayor respeto posible, y por supuesto, puede traer a alguien para que lo respalde. No se pedirá que se enfrente con nadie y no transmitiremos su identidad.
