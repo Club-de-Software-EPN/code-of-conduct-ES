@@ -57,7 +57,7 @@ Se puede realizar un reporte anónimo llenando el siguiente
 
 ### Reporte personal
 
-Se puede realizar un reporte directamente con algún orgnizador del club:
+Se puede realizar un reporte directamente con algún organizador del club:
 - Juanjo Jaramillo
     - Mensaje directo: <a href="https://twitter.com/juanjodev02" target="_blank">twitter</a>
     - Correo: juan.jaramillo02@epn.edu.ec
