@@ -30,7 +30,7 @@ El club de Software EPN se dedicará a garantizar que cada **espacio (virtual o 
 - Comportarse profesionalmente
 - Uso de lenguaje acogedor e inclusivo
 - Ser respetuoso con los diferentes puntos de vista y experiencias del resto de participantes
-- Aceptar de ben gray las críticas constructivas
+- Aceptar de buen grado las críticas constructivas
 - Mostrar empatía hacia otros miembros del espacio
 
 Por otro lado, el club de Software EPN penalizará con la **restricción del acceso a espacios (virtuales o presenciales) de forma PERMANENTE** a personas que apliquen un comportamiento inaceptable:
@@ -65,7 +65,7 @@ Se puede realizar un reporte directamente con algún orgnizador del club:
   - Mensaje directo: <a href="https://twitter.com/_llanganate" target="_blank">twitter</a>
   - Correo: alejandro.llanganate@epn.edu.ec
 
-Si recibimos el reporte en persona, nuestro personal se asegurará de que sea en un lugar seguro y nadie más pueda escucharlo. Pueden involucrar a otro organizador de la conferencia para garantizar que el reporte se gestione correctamente. Una vez que garantizamos la seguridad del reportante, le pediremos que nos cuente sobre lo que ha sucedido, esto puede ser molesto, pero lo manejaremos con el mayor respeto posible, y por supuesto, puede traer a alguien para que lo respalde. No se pedirá que se enfrente con nadie y no transmitiremos su identidad.
+Si recibimos el reporte en persona, nuestro personal se asegurará de que sea en un lugar seguro y nadie más pueda escucharlo. Pueden involucrar a otro organizador del club para garantizar que el reporte se gestione correctamente. Una vez que garantizamos la seguridad del reportante, le pediremos que nos cuente sobre lo que ha sucedido, esto puede ser molesto, pero lo manejaremos con el mayor respeto posible, y por supuesto, puede traer a alguien para que lo respalde. No se pedirá que se enfrente con nadie y no transmitiremos su identidad.
 
 ## Atribución
 
