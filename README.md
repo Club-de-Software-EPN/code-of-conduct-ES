@@ -2,7 +2,7 @@
 
 El club de software EPN es una comunidad que busca fomentar el conocimiento y la colaboración en un entorno libre de prejuicios, bullying y egocentrismo.
 
-Este código de conducta debe ser acatado por cualquier persona que pertenezca a la comunidad o que participe en cualquier actividad que organizada a la comunidad.
+Este código de conducta debe ser acatado por cualquier persona que pertenezca a la comunidad o que participe en cualquier actividad que organiza la comunidad.
 
 En este documento se definen reglas que garanticen la comodidad de una persona al participar en la comunidad, independientemente de:
 - Estado Familiar
@@ -58,12 +58,12 @@ Se puede realizar un reporte anónimo llenando el siguiente
 ### Reporte personal
 
 Se puede realizar un reporte directamente con algún organizador del club:
-- Juanjo Jaramillo
-    - Mensaje directo: <a href="https://twitter.com/juanjodev02" target="_blank">twitter</a>
-    - Correo: juan.jaramillo02@epn.edu.ec
-- Alejandro Llanganate:
-  - Mensaje directo: <a href="https://twitter.com/_llanganate" target="_blank">twitter</a>
-  - Correo: alejandro.llanganate@epn.edu.ec
+- Lesly Toapanta
+    - Mensaje directo: <a href="https://twitter.com/" target="_blank">twitter</a>
+    - Correo: lesly.tipanluiza@epn.edu.ec
+- Loreley Pazmiño:
+  - Mensaje directo: <a href="https://twitter.com/" target="_blank">twitter</a>
+  - Correo: loreley.pazmino@epn.edu.ec
 
 Si recibimos el reporte en persona, nuestro personal se asegurará de que sea en un lugar seguro y nadie más pueda escucharlo. Pueden involucrar a otro organizador del club para garantizar que el reporte se gestione correctamente. Una vez que garantizamos la seguridad del reportante, le pediremos que nos cuente sobre lo que ha sucedido, esto puede ser molesto, pero lo manejaremos con el mayor respeto posible, y por supuesto, puede traer a alguien para que lo respalde. No se pedirá que se enfrente con nadie y no transmitiremos su identidad.
 
