@@ -58,7 +58,7 @@ Se puede realizar un reporte anónimo llenando el siguiente
 ### Reporte personal
 
 Se puede realizar un reporte directamente con algún organizador del club:
-- Lesly Toapanta
+- Lesly Tipanluiza
     - Mensaje directo: <a href="https://twitter.com/" target="_blank">twitter</a>
     - Correo: lesly.tipanluiza@epn.edu.ec
 - Loreley Pazmiño:
