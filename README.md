@@ -5,20 +5,21 @@ El club de software EPN es una comunidad que busca fomentar el conocimiento y la
 Este código de conducta debe ser acatado por cualquier persona que pertenezca a la comunidad o que participe en cualquier actividad que organiza la comunidad.
 
 En este documento se definen reglas que garanticen la comodidad de una persona al participar en la comunidad, independientemente de:
-- Estado Familiar
-- Género
-- Identidad o expresión de género
-- Estado marital
-- Sexo
-- Orientación Sexual
-- Lenguaje de origen
-- Edad
-- Habilidades
-- Raza y/o etnicidad
-- Nacionalidad
-- Estado socioeconómico
-- Religión
-- Localización geográfica
+
+-   Estado Familiar
+-   Género
+-   Identidad o expresión de género
+-   Estado marital
+-   Sexo
+-   Orientación Sexual
+-   Lenguaje de origen
+-   Edad
+-   Habilidades
+-   Raza y/o etnicidad
+-   Nacionalidad
+-   Estado socioeconómico
+-   Religión
+-   Localización geográfica
 
 O cualquier otra dimensión de diversidad.
 
@@ -26,27 +27,29 @@ O cualquier otra dimensión de diversidad.
 
 El club de Software EPN se dedicará a garantizar que cada **espacio (virtual o presencial)** que se organice y cada persona que participe deba:
 
-- Ser amable con los demás
-- Comportarse profesionalmente
-- Uso de lenguaje acogedor e inclusivo
-- Ser respetuoso con los diferentes puntos de vista y experiencias del resto de participantes
-- Aceptar de buen grado las críticas constructivas
-- Mostrar empatía hacia otros miembros del espacio
+-   Ser amable con los demás
+-   Comportarse profesionalmente
+-   Uso de lenguaje acogedor e inclusivo
+-   Ser respetuoso con los diferentes puntos de vista y experiencias del resto de participantes
+-   Aceptar de buen grado las críticas constructivas
+-   Mostrar empatía hacia otros miembros del espacio
 
 Por otro lado, el club de Software EPN penalizará con la **restricción del acceso a espacios (virtuales o presenciales) de forma PERMANENTE** a personas que apliquen un comportamiento inaceptable:
-- Acoso a los participantes en cualquier forma
-- Intimidación deliberada, hecho o seguimiento
-- Amenazas o uso de lenguaje violento hacia otra persona
-- Uso de lenguaje o imágenes sexuales en cualquier espacio (virtual o presencial)
-- Insultos o humillaciones
-- Bromas sexistas, racistas homofóbicas, trasnfóbicas, capacitados o excluyentes
-- Atención sexual no deseada
-- Contacto físico no deseado
-- Interrupción sostenida en los espacios
-- Otra conducta inapropiada para un ambiente profesional
+
+-   Acoso a los participantes en cualquier forma
+-   Intimidación deliberada, hecho o seguimiento
+-   Amenazas o uso de lenguaje violento hacia otra persona
+-   Uso de lenguaje o imágenes sexuales en cualquier espacio (virtual o presencial)
+-   Insultos o humillaciones
+-   Bromas sexistas, racistas homofóbicas, transfóbicas, capacitados o excluyentes
+-   Atención sexual no deseada
+-   Contacto físico no deseado
+-   Interrupción sostenida en los espacios
+-   Otra conducta inapropiada para un ambiente profesional
 
 ## Cómo reportar
-Si se considera que alguien a violado este código de conducta, le animamos a que informe de ello. Si no se tiene la certeza de si el incidente es una infracción, o si el espacio donde sucedió está cubierto por este código de conducta, se recomienda que se reporte de todos modos.
+
+Si se considera que alguien ha violado este código de conducta, le animamos a que informe de ello. Si no se tiene la certeza de si el incidente es una infracción, o si el espacio donde sucedió está cubierto por este código de conducta, se recomienda que se reporte de todos modos.
 
 Los reportes se pueden realizar de forma anónima o personalmente.
 
@@ -58,12 +61,13 @@ Se puede realizar un reporte anónimo llenando el siguiente
 ### Reporte personal
 
 Se puede realizar un reporte directamente con algún organizador del club:
-- Lesly Tipanluiza
-    - Mensaje directo: <a href="https://twitter.com/" target="_blank">twitter</a>
-    - Correo: lesly.tipanluiza@epn.edu.ec
-- Loreley Pazmiño:
-  - Mensaje directo: <a href="https://twitter.com/" target="_blank">twitter</a>
-  - Correo: loreley.pazmino@epn.edu.ec
+
+-   Lesly Tipanluiza
+    -   Mensaje directo: <a href="https://twitter.com/" target="_blank">twitter</a>
+    -   Correo: lesly.tipanluiza@epn.edu.ec
+-   Loreley Pazmiño:
+    -   Mensaje directo: <a href="https://twitter.com/" target="_blank">twitter</a>
+    -   Correo: loreley.pazmino@epn.edu.ec
 
 Si recibimos el reporte en persona, nuestro personal se asegurará de que sea en un lugar seguro y nadie más pueda escucharlo. Pueden involucrar a otro organizador del club para garantizar que el reporte se gestione correctamente. Una vez que garantizamos la seguridad del reportante, le pediremos que nos cuente sobre lo que ha sucedido, esto puede ser molesto, pero lo manejaremos con el mayor respeto posible, y por supuesto, puede traer a alguien para que lo respalde. No se pedirá que se enfrente con nadie y no transmitiremos su identidad.
 
