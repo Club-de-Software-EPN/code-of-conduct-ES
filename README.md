@@ -62,12 +62,10 @@ Se puede realizar un reporte anónimo llenando el siguiente
 
 Se puede realizar un reporte directamente con algún organizador del club:
 
--   Lesly Tipanluiza
-    -   Mensaje directo: <a href="https://twitter.com/" target="_blank">twitter</a>
-    -   Correo: lesly.tipanluiza@epn.edu.ec
--   Loreley Pazmiño:
-    -   Mensaje directo: <a href="https://twitter.com/" target="_blank">twitter</a>
-    -   Correo: loreley.pazmino@epn.edu.ec
+-   Pamela Flores
+    -   Correo: pamela.flores@epn.edu.ec
+-   Alex Padilla:
+    -   Correo: alex.padilla@epn.edu.ec
 
 Si recibimos el reporte en persona, nuestro personal se asegurará de que sea en un lugar seguro y nadie más pueda escucharlo. Pueden involucrar a otro organizador del club para garantizar que el reporte se gestione correctamente. Una vez que garantizamos la seguridad del reportante, le pediremos que nos cuente sobre lo que ha sucedido, esto puede ser molesto, pero lo manejaremos con el mayor respeto posible, y por supuesto, puede traer a alguien para que lo respalde. No se pedirá que se enfrente con nadie y no transmitiremos su identidad.
 
